@@ -1,8 +1,8 @@
 """
 
 ### **Basic Python Syntax and Operations**  
-1. Print "Hello, World!" in Python.  
-2. Take two numbers as input and print their sum.  
+1. Print "Hello, World!" in Python. ------ 
+2. Take two numbers as input and print their sum.------- 
 3. Swap two numbers without using a third variable.  
 4. Find the square and cube of a number.  
 5. Check whether a number is even or odd.  
