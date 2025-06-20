@@ -17,3 +17,13 @@ num1 = num1 - num2
 print(num1)
 
 print(num2)
+
+#Swaping number using bitwise operator XOR
+
+a , b = 5, 3
+
+a = a ^ b
+b = a ^ b
+a = a ^ b
+
+print(a,b)
