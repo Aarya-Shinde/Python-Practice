@@ -10,3 +10,17 @@ elif number%2 == 1:
 else:
     print("'Invalid Input")
 
+
+
+
+# rEMOVE dUPLICATE VALUES
+
+list = [3, 9 , 23, 92, 3 ]
+
+result = []
+
+for x in list:
+    if x not in result:
+        result.append(x)
+
+print(result)
